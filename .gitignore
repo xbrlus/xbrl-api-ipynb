@@ -2,7 +2,6 @@
 !.gitignore
 
 **untitled*.py
-**untitled*.txt
 **/.ipynb_checkpoints
 **/desktop.ini
 
