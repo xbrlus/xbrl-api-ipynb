@@ -2739,6 +2739,24 @@
                 "limit": 5000,
                 "offset": 0
             }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Statement [Table]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Schedule reflecting a Statement of Income, Statement of Cash Flows, Statement of Financial Position, Statement of Shareholders' Equity and Other Comprehensive Income, or other statement as needed.",
+                    "label.role-short": "documentation"
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
         }
     },
     {
@@ -5169,6 +5187,24 @@
                 "limit": 5000,
                 "offset": 0
             }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Revision of Prior Period [Axis]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Information by adjustment to previously issued financial statements. Includes, but is not limited to, adjustment for retrospective application of amendment to accounting standards, other change in accounting principle, correction of error, and other revision.",
+                    "label.role-short": "documentation"
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
         }
     },
     {
@@ -7569,6 +7605,24 @@
                 "limit": 5000,
                 "offset": 0
             }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Revision of Prior Period [Domain]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Adjustment to previously issued financial statements. Includes, but is not limited to, adjustment for retrospective application of amendment to accounting standards, other change in accounting principle, correction of error, and other revision.",
+                    "label.role-short": "documentation"
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
         }
     },
     {
@@ -9831,6 +9885,24 @@
                 "limit": 5000,
                 "offset": 0
             }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Previously Reported [Member]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Represents amount as previously reported before adjustment for retrospective application of amendment to accounting standards, other change in accounting principle, correction of error, and other revision.",
+                    "label.role-short": "documentation"
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
         }
     },
     {
@@ -10797,6 +10869,24 @@
                     },
                     "dts.id": 699456,
                     "reference.id": 337849425
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Revision of Prior Period, Adjustment [Member]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Cumulative increase (decrease) for adjustment to previously issued financial statements. Includes, but is not limited to, adjustment for retrospective application of amendment to accounting standards, other change in accounting principle, correction of error, and other revision.",
+                    "label.role-short": "documentation"
                 }
             ],
             "paging": {
@@ -13911,6 +14001,24 @@
                 "limit": 5000,
                 "offset": 0
             }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Class of Stock [Axis]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Information by the different classes of stock of the entity.",
+                    "label.role-short": "documentation"
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
         }
     },
     {
@@ -17019,6 +17127,24 @@
                 "limit": 5000,
                 "offset": 0
             }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Class of Stock [Domain]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Share of stock differentiated by the voting rights the holder receives. Examples include, but are not limited to, common stock, redeemable preferred stock, nonredeemable preferred stock, and convertible stock.",
+                    "label.role-short": "documentation"
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
         }
     },
     {
@@ -17133,6 +17259,24 @@
                     },
                     "dts.id": 699456,
                     "reference.id": 337848678
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Common Class A [Member]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Classification of common stock representing ownership interest in a corporation.",
+                    "label.role-short": "documentation"
                 }
             ],
             "paging": {
@@ -17259,6 +17403,24 @@
                 "limit": 5000,
                 "offset": 0
             }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Common Class B [Member]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Classification of common stock that has different rights than Common Class A, representing ownership interest in a corporation.",
+                    "label.role-short": "documentation"
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
         }
     },
     {
@@ -17283,6 +17445,24 @@
                     },
                     "dts.id": 699456,
                     "reference.id": 337847565
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Common Class C [Member]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Classification of common stock that has different rights than provided to Class A or B shares, representing ownership interest in a corporation.",
+                    "label.role-short": "documentation"
                 }
             ],
             "paging": {
@@ -17319,6 +17499,24 @@
                 "limit": 5000,
                 "offset": 0
             }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Cumulative Preferred Stock [Member]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Preferred stock upon which unpaid dividends accumulate until paid to shareholders. Classified within stockholders' equity if nonredeemable or redeemable solely at the option of the issuer. Classified within temporary equity if redemption is outside the control of the issuer.",
+                    "label.role-short": "documentation"
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
         }
     },
     {
@@ -17343,6 +17541,24 @@
                     },
                     "dts.id": 699456,
                     "reference.id": 337847568
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Noncumulative Preferred Stock [Member]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Preferred stock upon which unpaid dividends do not accrue.",
+                    "label.role-short": "documentation"
                 }
             ],
             "paging": {
@@ -18069,6 +18285,24 @@
                 "limit": 5000,
                 "offset": 0
             }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Redeemable Preferred Stock [Member]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Description of type or class of redeemable preferred stock. For instance, cumulative preferred stock, noncumulative preferred stock, convertible or series.",
+                    "label.role-short": "documentation"
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
         }
     },
     {
@@ -18093,6 +18327,24 @@
                     },
                     "dts.id": 699456,
                     "reference.id": 337847568
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Nonredeemable Preferred Stock [Member]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Preferred shares that are not redeemable before liquidation of the entity. Preferred shares may provide a preferential dividend to the dividend on common stock and may take precedence over common stock in the event of a liquidation. Preferred shares typically represent an ownership interest in the company.",
+                    "label.role-short": "documentation"
                 }
             ],
             "paging": {
@@ -18615,6 +18867,24 @@
                 "limit": 5000,
                 "offset": 0
             }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Convertible Preferred Stock [Member]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Preferred stock that may be exchanged into common shares or other types of securities at the owner's option.",
+                    "label.role-short": "documentation"
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
         }
     },
     {
@@ -18705,6 +18975,24 @@
                 "limit": 5000,
                 "offset": 0
             }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Nonredeemable Convertible Preferred Stock [Member]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Capital stock of an entity that has priority over common stock in the distribution of dividends and in the event of liquidation of the entity and may be exchanged into common shares or other types of securities at the owner's option as long as it is in accordance with the issuer's terms. This security does not have redemption requirements.",
+                    "label.role-short": "documentation"
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
         }
     },
     {
@@ -18729,6 +19017,24 @@
                     },
                     "dts.id": 699456,
                     "reference.id": 337847568
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Redeemable Convertible Preferred Stock [Member]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Description of type or class of redeemable convertible preferred stock. Convertible redeemable preferred stock possess conversion and redemption features. The stock has redemption features that are outside the control of the issuer.",
+                    "label.role-short": "documentation"
                 }
             ],
             "paging": {
@@ -18861,6 +19167,24 @@
                 "limit": 5000,
                 "offset": 0
             }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Contingent Convertible Preferred Stock [Member]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Preferred stock that may be exchanged into common shares or other types of securities based on a contingency.",
+                    "label.role-short": "documentation"
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
         }
     },
     {
@@ -18891,6 +19215,24 @@
                 "limit": 5000,
                 "offset": 0
             }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Preferred Class A [Member]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Outstanding nonredeemable preferred class A stock or outstanding convertible preferred class A stock. Classified within stockholders' equity if nonredeemable or redeemable solely at the option of the issuer. Classified within temporary equity if redemption is outside the control of the issuer.",
+                    "label.role-short": "documentation"
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
         }
     },
     {
@@ -18915,6 +19257,24 @@
                     },
                     "dts.id": 699456,
                     "reference.id": 337847568
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Preferred Class B [Member]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Outstanding nonredeemable preferred class B stock or outstanding preferred class B stock. Classified within stockholders' equity if nonredeemable or redeemable solely at the option of the issuer. Classified within temporary equity if redemption is outside the control of the issuer.",
+                    "label.role-short": "documentation"
                 }
             ],
             "paging": {
@@ -19167,6 +19527,24 @@
                 "limit": 5000,
                 "offset": 0
             }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Series A Preferred Stock [Member]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Series A preferred stock.",
+                    "label.role-short": "documentation"
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
         }
     },
     {
@@ -19407,6 +19785,24 @@
                     },
                     "dts.id": 699456,
                     "reference.id": 337852228
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Series B Preferred Stock [Member]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Series B preferred stock.",
+                    "label.role-short": "documentation"
                 }
             ],
             "paging": {
@@ -19659,6 +20055,24 @@
                 "limit": 5000,
                 "offset": 0
             }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Series C Preferred Stock [Member]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Series C preferred stock.",
+                    "label.role-short": "documentation"
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
         }
     },
     {
@@ -19905,6 +20319,24 @@
                 "limit": 5000,
                 "offset": 0
             }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Series D Preferred Stock [Member]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Series D preferred stock.",
+                    "label.role-short": "documentation"
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
         }
     },
     {
@@ -20145,6 +20577,24 @@
                     },
                     "dts.id": 699456,
                     "reference.id": 337852228
+                }
+            ],
+            "paging": {
+                "limit": 5000,
+                "offset": 0
+            }
+        },
+        "label": {
+            "data": [
+                {
+                    "dts.id": 699456,
+                    "label.text": "Series E Preferred Stock [Member]",
+                    "label.role-short": "label"
+                },
+                {
+                    "dts.id": 699456,
+                    "label.text": "Series E preferred stock.",
+                    "label.role-short": "documentation"
                 }
             ],
             "paging": {
