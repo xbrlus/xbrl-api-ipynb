@@ -13,5 +13,5 @@
 !*.csv
 
 xbrl_us_api -Ties.ipynb
-
 **/desktop.ini
+creds.json
